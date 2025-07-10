@@ -1,5 +1,5 @@
 
-# 🌐 Multi-Region Kubernetes Clusters with Terraform, Ansible & GitLab CI
+# 🌐 Multi-Region Kubernetes Clusters with Terraform, Ansible & CI/CD
 
 ## 📄 **Overview**
 This project provisions **high-availability, multi-region Kubernetes clusters** using **Terraform** and **Ansible**. It applies best practices in **infrastructure as code**, **disaster recovery**, and **automated patch management** across **AWS and Azure** environments. Designed to support critical workloads with strict **uptime** and **compliance** requirements, such as healthcare or financial platforms.
