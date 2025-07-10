@@ -9,7 +9,7 @@ This project provisions **high-availability, multi-region Kubernetes clusters** 
 ## 🛠️ **Skillset Required**
 - 🛠️ **Terraform** for multi-cloud IaC provisioning
 - 🧰 **Ansible** for patching, software configuration, and OS-level automation
-- 🌀 **GitLab CI** for pipeline automation and compliance integration
+- 🌀 **CI/CD** for pipeline automation and compliance integration
 - 🌍 AWS & Azure **multi-region architecture** design
 - 📓 Runbook design and change management process documentation
 
